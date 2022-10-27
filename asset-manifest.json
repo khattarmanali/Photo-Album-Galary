@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7BPhoto-Album-Galary%7D/static/css/main.1635e87c.chunk.css",
+    "main.js": "/%7BPhoto-Album-Galary%7D/static/js/main.cbf66514.chunk.js",
+    "main.js.map": "/%7BPhoto-Album-Galary%7D/static/js/main.cbf66514.chunk.js.map",
+    "runtime-main.js": "/%7BPhoto-Album-Galary%7D/static/js/runtime-main.931cd6ed.js",
+    "runtime-main.js.map": "/%7BPhoto-Album-Galary%7D/static/js/runtime-main.931cd6ed.js.map",
+    "static/js/2.4f5aa228.chunk.js": "/%7BPhoto-Album-Galary%7D/static/js/2.4f5aa228.chunk.js",
+    "static/js/2.4f5aa228.chunk.js.map": "/%7BPhoto-Album-Galary%7D/static/js/2.4f5aa228.chunk.js.map",
+    "static/js/3.9bac637f.chunk.js": "/%7BPhoto-Album-Galary%7D/static/js/3.9bac637f.chunk.js",
+    "static/js/3.9bac637f.chunk.js.map": "/%7BPhoto-Album-Galary%7D/static/js/3.9bac637f.chunk.js.map",
+    "index.html": "/%7BPhoto-Album-Galary%7D/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/%7BPhoto-Album-Galary%7D/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.4f5aa228.chunk.js.LICENSE.txt": "/%7BPhoto-Album-Galary%7D/static/js/2.4f5aa228.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931cd6ed.js",
+    "static/js/2.4f5aa228.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.cbf66514.chunk.js"
+  ]
+}
